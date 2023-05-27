@@ -1,0 +1,5 @@
+pyaudio
+tk
+pillow
+opencv-python
+numpy
